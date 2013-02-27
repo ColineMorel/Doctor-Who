@@ -1,14 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Document sans nom</title>
-</head>
-
-<body>
-<p>This is the page of Rory Williams.</p>
-<!-- #BeginLibraryItem "/Library/links.lbi" -->
-<p><a href="../The Doctors">The Doctors</a></p>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><p><a href="../The Doctors">The Doctors</a></p>
 <ul>
   <li><a href="../The Doctors/doctor-who-01.html">The First Doctor</a></li>
   <li><a href="../The Doctors/doctor-who-02.html">The Second Doctor</a></li>
@@ -24,11 +14,11 @@
 </ul>
 <p><a href="../The Companions">The Companions</a></p>
 <ul>
-  <li><a href="amy-pond.html">Amy Pond </a></li>
-  <li><a href="martha-jones.html">Martha Jones</a></li>
-  <li><a href="rory-williams.html">Rory Williams</a></li>
-  <li><a href="rose-tyler.html">Rose Tyler</a></li>
-  <li><a href="victoria-waterfield.html">Victoria Waterfield</a></li>
+  <li><a href="../The Companions/amy-pond.html">Amy Pond </a></li>
+  <li><a href="../The Companions/martha-jones.html">Martha Jones</a></li>
+  <li><a href="../The Companions/rory-williams.html">Rory Williams</a></li>
+  <li><a href="../The Companions/rose-tyler.html">Rose Tyler</a></li>
+  <li><a href="../The Companions/victoria-waterfield.html">Victoria Waterfield</a></li>
 </ul>
 <p><a href="../The Villains">The Villains</a></p>
 <ul>
@@ -36,8 +26,4 @@
   <li><a href="../The Villains/dalek.html">The Daleks</a></li>
   <li><a href="../The Villains/lady-cassandra.html">Lady Cassandra</a></li>
   <li><a href="../The Villains/the-captain.html">The Captain</a></li>
-  <li><a href="../The Villains/weeping-angel.html">The Weeping Angel</a></li>
-</ul>
-<!-- #EndLibraryItem -->
-</body>
-</html>
+  <li><a href="../The Villains/weeping-angel.html">The Weeping Angel</a></li></ul>
